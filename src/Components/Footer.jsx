@@ -17,7 +17,7 @@ const Footer = () => {
                 <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                   {/* Content */}
                   <div className="logo text-center ">
-            <img src="./src/assets/img/logo/logocare.png" alt="" />
+            <img src="/logocare.png" alt="" />
           </div>
                 </div>
                 {/* Grid column */}

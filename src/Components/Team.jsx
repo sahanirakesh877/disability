@@ -19,7 +19,7 @@ const Team = () => {
       <div className="col-lg-3 col-md-6 col-sm-6">
         <div className="single-team mb-30">
           <div className="team-img">
-            <img src="./src/assets/img/gallery/team1.png" alt />
+            <img src="/team1.png" alt />
             {/* Blog Social */}
             <ul className="team-social">
               <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
@@ -36,7 +36,7 @@ const Team = () => {
       <div className="col-lg-3 col-md-6 col-sm-6">
         <div className="single-team mb-30">
           <div className="team-img">
-            <img src="./src/assets/img/gallery/team2.png" alt />
+            <img src="/team2.png" alt />
             {/* Blog Social */}
             <ul className="team-social">
               <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
@@ -53,7 +53,7 @@ const Team = () => {
       <div className="col-lg-3 col-md-6 col-sm-6">
         <div className="single-team mb-30">
           <div className="team-img">
-            <img src="./src/assets/img/gallery/team3.png" alt />
+            <img src="/team3.png" alt />
             {/* Blog Social */}
             <ul className="team-social">
               <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
@@ -70,7 +70,7 @@ const Team = () => {
       <div className="col-lg-3 col-md-6 col-sm-6">
         <div className="single-team mb-30">
           <div className="team-img">
-            <img src="./src/assets/img/gallery/team4.png" alt />
+            <img src="/team4.png" alt />
             {/* Blog Social */}
             <ul className="team-social">
               <li><a href="#"><i className="fab fa-facebook-f" /></a></li>

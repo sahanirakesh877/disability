@@ -8,7 +8,7 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg bg-body-tertiary shadow-lg  ">
         <div className="container mx-auto ">
           <div className="logo">
-            <img src="./src/assets/img/logo/logocare.png" alt="" />
+            <img src="/logocare.png" alt="" />
           </div>
           <button
             className="navbar-toggler fs-1  "
